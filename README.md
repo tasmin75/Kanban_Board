@@ -23,20 +23,20 @@ Deyployment Link-https://kanban-ikee.onrender.com/
 "boards": [
 
 {
-  "id": "board1",
-  "title": "Computer Science",
-  "columns": [
-    {
-      "id": "column1",
-      "title": "To Do",
-      "tasks": [
-        {
-          "id": "task1",
-          "title": "Write Code for Project",
-          "description": "Implement the functionality for the task page",
-          "dueDate": "2023-05-12",
-          "priority": "High",
-         
+"id": "board1",
+"title": "Computer Science",
+"columns": [
+{
+"id": "column1",
+"title": "To Do",
+"tasks": [
+{
+"id": "task1",
+"title": "Write Code for Project",
+"description": "Implement the functionality for the task page",
+"dueDate": "2023-05-12",
+"priority": "High",
+
           "tags": ["task", "Frontend"]
         },
         {
@@ -45,7 +45,7 @@ Deyployment Link-https://kanban-ikee.onrender.com/
           "description": "Fix the bug in the decription functionality",
           "dueDate": "2023-05-12",
           "priority": "Medium",
-          
+
           "tags": ["description", "Backend"]
         }
       ]
@@ -60,7 +60,7 @@ Deyployment Link-https://kanban-ikee.onrender.com/
           "description": "Create a new UI for the profile page",
           "dueDate": "2023-05-12",
           "priority": "Low",
-       
+
           "tags": ["Profile", "UI"]
         }
       ]
@@ -75,41 +75,42 @@ Deyployment Link-https://kanban-ikee.onrender.com/
           "description": "Write the documentation for the entire project",
           "dueDate": "2023-05-30",
           "priority": "High",
-         
+
           "tags": ["Documentation", "All"]
         }
       ]
     }
-  ],
-  "customization": {
-    "color": "#F7D358",
-    "tags": ["Computer Science", "Programming"]
-  }
+
+],
+"customization": {
+"color": "#F7D358",
+"tags": ["Computer Science", "Programming"]
+}
 },
 {
-  "id": "board2",
-  "title": "History",
-  "columns": [
-    {
-      "id": "column1",
-      "title": "To Do",
-      "tasks": []
-    },
-    {
-      "id": "column2",
-      "title": "In Progress",
-      "tasks": []
-    },
-    {
-      "id": "column3",
-      "title": "Done",
-      "tasks": []
-    }
-  ],
-  "customization": {
-    "color": "#FA8072",
-    "tags": ["History", "Research"]
-  }
+"id": "board2",
+"title": "History",
+"columns": [
+{
+"id": "column1",
+"title": "To Do",
+"tasks": []
+},
+{
+"id": "column2",
+"title": "In Progress",
+"tasks": []
+},
+{
+"id": "column3",
+"title": "Done",
+"tasks": []
+}
+],
+"customization": {
+"color": "#FA8072",
+"tags": ["History", "Research"]
+}
 }
 ]
 
@@ -127,10 +128,12 @@ Deployment-Link : https://kanban-ikee.onrender.com/
 
 ##collaborators =>
 
-Ankush Rai - https://github.com/Ankush123rai
+Tasmin Ansari
 
-Dilip Lovevanshi - https://github.com/dilip884400
+Vinay Suddakunty
 
-Kamal Panwar - https://github.com/KamalPanwar
+Veena Udkude
 
-Bharti Zade -https://github.com/202619363827
+Fahad Ansari
+
+Shivpujan Kumar
